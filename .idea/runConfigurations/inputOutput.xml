@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="inputOutput" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="atb10xNotes.inputOutput" />
+    <module name="ATB10X" />
+    <option name="PROGRAM_PARAMETERS" value="54" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
