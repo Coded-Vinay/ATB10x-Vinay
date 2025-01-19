@@ -2,7 +2,10 @@ package atb10xTasks;
 
 public class atb10x_TableOf9usingPrint {
     public static void main(String[] args) {
+
+        // User Input using CLI
         int n = Integer.parseInt(args[0]);
+
         System.out.printf("%d x 1 = %d", n, n).println();
         System.out.printf("%d x 2 = %d", n, n * 2).println();
         System.out.printf("%d x 3 = %d", n, n * 3).println();

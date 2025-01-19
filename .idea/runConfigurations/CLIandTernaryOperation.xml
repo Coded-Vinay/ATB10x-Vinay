@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CLIandTernaryOperation" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="atb10xTasks.atb10x_CLIandTernaryOperation" />
+    <module name="ATB10X" />
+    <option name="PROGRAM_PARAMETERS" value="69 96" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
