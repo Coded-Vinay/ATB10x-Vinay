@@ -1,8 +1,8 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="inputOutput" type="Application" factoryName="Application">
+  <configuration default="false" name="inputOutput" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
     <option name="MAIN_CLASS_NAME" value="atb10xNotes.inputOutput" />
     <module name="ATB10X" />
-    <option name="PROGRAM_PARAMETERS" value="54" />
+    <option name="PROGRAM_PARAMETERS" value="54 56 78" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>

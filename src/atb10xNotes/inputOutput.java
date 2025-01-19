@@ -7,8 +7,10 @@ public class inputOutput {
 
         // Input using CLI (Use Edit CLI argument  by using Edit Configuration  )
         String age = args[0];
+        String age2 = args[1];
 
-        int n = Integer.parseInt(age);
+
+        int n = Integer.parseInt(age2);
         // The parseInt() method in Java is used to change numbers that are written as text (strings) into actual numbers (integers)
 
         System.out.println(n);
