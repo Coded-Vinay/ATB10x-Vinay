@@ -1,4 +1,4 @@
-package atb10xTasks.LoopsandCondition.forLoop;
+package atb10xTasks.LoopsandCondition;
 
 import java.util.Scanner;
 
