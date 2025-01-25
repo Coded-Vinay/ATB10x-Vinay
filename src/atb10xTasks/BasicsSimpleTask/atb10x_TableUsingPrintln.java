@@ -1,4 +1,4 @@
-package atb10xTasks;
+package atb10xTasks.BasicsSimpleTask;
 
 public class atb10x_TableUsingPrintln {
     public static void main(String[] args) {

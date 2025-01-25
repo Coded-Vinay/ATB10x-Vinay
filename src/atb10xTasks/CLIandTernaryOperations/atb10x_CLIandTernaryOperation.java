@@ -1,4 +1,4 @@
-package atb10xTasks;
+package atb10xTasks.CLIandTernaryOperations;
 
 public class atb10x_CLIandTernaryOperation {
     public static void main(String[] args) {
