@@ -1,9 +1,13 @@
 package atb10xTasks;
 
-public class atb10x_TableOf9usingPrint {
+public class atb10x_TableUsingPrintln {
     public static void main(String[] args) {
-
-        // User Input using CLI
+/*
+        TODO:
+         Print table
+         Input using CLI
+         */
+        
         int n = Integer.parseInt(args[0]);
 
         System.out.printf("%d x 1 = %d", n, n).println();
