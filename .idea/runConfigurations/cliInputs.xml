@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="cliInputs" type="Application" factoryName="Application" singleton="false">
-    <option name="MAIN_CLASS_NAME" value="atb10xTasks.atb10x_CLI_InputAgeNameSalary" />
+    <option name="MAIN_CLASS_NAME" value="atb10xTasks.CLIandTernaryOperations.atb10x_CLI_InputAgeNameSalary" />
     <module name="ATB10X" />
     <option name="PROGRAM_PARAMETERS" value="Daniel 24 $178/M" />
     <method v="2">

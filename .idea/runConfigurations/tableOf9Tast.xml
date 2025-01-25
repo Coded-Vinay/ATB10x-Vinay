@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="tableOf9Tast" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="atb10xTasks.atb10x_TableUsingPrintln" />
+    <option name="MAIN_CLASS_NAME" value="atb10xTasks.BasicsSimpleTask.atb10x_TableUsingPrintln" />
     <module name="ATB10X" />
     <option name="PROGRAM_PARAMETERS" value="9" />
     <method v="2">
