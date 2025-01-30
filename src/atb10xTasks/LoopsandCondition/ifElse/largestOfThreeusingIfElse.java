@@ -16,11 +16,11 @@ public class largestOfThreeusingIfElse {
         System.out.println("Enter the first number ");
         int c = Sc.nextInt();
 
-        threeNumberComparison(a, b, c);
+        lasrgestofthree(a, b, c);
     }
 
 
-    public static void threeNumberComparison(int a, int b, int c) {
+    public static void lasrgestofthree(int a, int b, int c) {
 
         if ((a > b) && (b > c)) {
             System.out.println("Largest of three is >> " + a);
@@ -29,6 +29,17 @@ public class largestOfThreeusingIfElse {
         } else {
             System.out.println("Largest of three is >> " + c);
         }
+    }
+
+    public static void smallestOfThree(int a, int b, int c) {
+        if ((a > b) && (b > c)) {
+            System.out.println("Smallest of three is >> " + c);
+        } else if ((a < b) && (b < c)) {
+            System.out.println("Smallest of three is >> " + a);
+        } else {
+            System.out.println("Smallest of three is >> " + b);
+        }
+
     }
 
 
