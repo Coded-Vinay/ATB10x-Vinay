@@ -8,7 +8,7 @@ A year is a leap year if it is divisible by 4, unless it is divisible by 100.
 If the year is divisible by 100, it must also be divisible by 400 to be a leap year.
 */
 
-public class leapYearValidation {
+public class atb10x_LeapYearValidation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Year");

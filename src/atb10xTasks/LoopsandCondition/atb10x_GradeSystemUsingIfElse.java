@@ -2,7 +2,7 @@ package atb10xTasks.LoopsandCondition;
 
 import java.util.Scanner;
 
-public class gradeSystemUsingIfElse {
+public class atb10x_GradeSystemUsingIfElse {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

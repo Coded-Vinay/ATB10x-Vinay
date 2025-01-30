@@ -7,7 +7,7 @@ exactly two distinct positive divisors: 1 and the number itself.
 
 import java.util.Scanner;
 
-public class primeNumberValidation {
+public class atb10x_PrimeNumberValidation {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

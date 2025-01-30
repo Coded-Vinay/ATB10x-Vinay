@@ -2,7 +2,7 @@ package atb10xTasks.LoopsandCondition;
 
 import java.util.Scanner;
 
-public class atmWithdrawalSimulation {
+public class atb10x_ATMWithdrawalSimulation {
     public static void main(String[] args) {
         int account_Balance = 10000;
         Scanner sc = new Scanner(System.in);
