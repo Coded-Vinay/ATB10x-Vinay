@@ -17,8 +17,6 @@ public class largestOfThreeusingIfElse {
         int c = Sc.nextInt();
 
         threeNumberComparison(a, b, c);
-
-
     }
 
 
