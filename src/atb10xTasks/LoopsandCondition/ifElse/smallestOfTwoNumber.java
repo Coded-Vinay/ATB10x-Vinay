@@ -5,14 +5,11 @@ import java.util.Scanner;
 public class smallestOfTwoNumber {
 
     public static void main(String[] args) {
-
-        int a, b ;
-
         Scanner sc =  new Scanner(System.in);
         System.out.println("Enter first Number");
-        a= sc.nextInt();
+       int a= sc.nextInt();
         System.out.println("Enter Second Number");
-        b=sc.nextInt();
+       int b=sc.nextInt();
         smallestOfTwo(a,b);
     }
 
