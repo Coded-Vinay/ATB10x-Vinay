@@ -21,7 +21,6 @@ public class smallestOfTwoNumber {
              System.out.println( b + " << is Smallest of two numbers");
          } else{
              System.out.println( a + " << is Smallest of two numbers");
-
          }
 
     }
