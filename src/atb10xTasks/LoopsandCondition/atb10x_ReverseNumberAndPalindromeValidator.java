@@ -2,7 +2,7 @@ package atb10xTasks.LoopsandCondition;
 
 import java.util.Scanner;
 
-public class atb10x_ReverseNumber {
+public class atb10x_ReverseNumberAndPalindromeValidator {
 
     public static void main(String[] args) {
 
@@ -26,6 +26,12 @@ public class atb10x_ReverseNumber {
             }
         }
         System.out.println( " Reverse of the given number is >> " + rev);
+
+        if(rev == og){
+            System.out.println(" Number is Palindrome ");
+        }else{
+            System.out.println("Number is not palindrome");
+        }
 
     }
 }
