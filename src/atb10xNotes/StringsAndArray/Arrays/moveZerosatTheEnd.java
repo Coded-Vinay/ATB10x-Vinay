@@ -17,6 +17,6 @@ public class moveZerosatTheEnd {
                 j++;
             }
         }
-        System.out.println(Arrays.toString(arr)); // Output: [1, 2, 4, 5, 6, 7, 8, 0, 0, 0, 0]
+        System.out.println(Arrays.toString(arr));
     }
 }
