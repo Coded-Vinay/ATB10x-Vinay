@@ -1,4 +1,4 @@
-package atb10xTasks.LoopsandCondition.atb10x_ForLoopandWhileloopbasics;
+package atb10xTasks.LoopsandCondition.atb10x_ForLoopandWhileloopbasics.forloop;
 
 public class printEvenNumbers1to20 {
 
