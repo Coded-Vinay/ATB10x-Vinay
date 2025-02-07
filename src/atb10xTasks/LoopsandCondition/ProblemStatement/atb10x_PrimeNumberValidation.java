@@ -1,4 +1,4 @@
-package atb10xTasks.LoopsandCondition;
+package atb10xTasks.LoopsandCondition.ProblemStatement;
 /*
 TODO: Program to validate if entered number is prime or not
 Logic - prime numbers are defined as positive integers greater than 1 that have
