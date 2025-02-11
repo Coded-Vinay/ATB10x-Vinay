@@ -1,10 +1,9 @@
-package atb10xTasks.LoopsandCondition;
+package atb10xTasks.LoopsandCondition.ProblemStatement;
 
 /*
 TODO: Take String as input and Count number of vowels and Consonants in the string
  */
 
-import java.lang.reflect.Array;
 import java.util.Scanner;
 
 public class countVowvelsandConsonant {
