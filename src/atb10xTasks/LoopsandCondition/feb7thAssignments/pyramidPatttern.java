@@ -9,11 +9,8 @@ public class pyramidPatttern {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter length of triangle >> ");
         int n = sc.nextInt();
-
-
         for (int i = 1; i <= n; i++) {
             int space = n - i;
-
             for (int k = 1; k <= space; k++) {
                 System.out.print(" ");
             }
@@ -23,7 +20,6 @@ public class pyramidPatttern {
             for (int k = 1; k <= space; k++) {
                 System.out.print(" ");
             }
-
             System.out.println();
             i++;
             space--;

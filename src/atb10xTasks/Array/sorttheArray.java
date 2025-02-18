@@ -12,10 +12,7 @@ public class sorttheArray {
     public static void main(String[] args) {
 
         int[] number = {12, 34, 10, 1, 100, 3, 4, 32};
-
-
         for (int i = 0; i < number.length - 1; i++) {
-
             if (number[i] > number[i + 1]) {
                 int k = number[i];
                 number[i] = number[i + 1];
@@ -26,4 +23,3 @@ public class sorttheArray {
         System.out.println(Arrays.toString(number));
     }
 }
-
