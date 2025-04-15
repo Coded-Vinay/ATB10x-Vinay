@@ -1,7 +1,5 @@
 package InterviewSolution;
 
-import java.util.ArrayList;
-
 /*
 TODO:  Problem Statement:
   Write a Program to find the smallest value in 2 digit from integer 1 to 100 whose sum is 16.
